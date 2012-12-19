@@ -1,4 +1,4 @@
-android-device-samsung-janice
-=============================
+android_device_samsung_u8500-common
+===================================
 
-device tree for janice
+Common Files for Samsung's NovaThor U8500 based devices (Galaxy S Advance, Galaxy Ace 2 and Galaxy Beam)
